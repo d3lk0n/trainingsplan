@@ -1,6 +1,6 @@
 [
   {
-    "trid": 1,
+    "trainingId": 1,
     "dateAdded": 3,
     "exercises": 
     [{
@@ -11,7 +11,7 @@
     }]
   },
   {
-    "trid": 2,
+    "trainingId": 2,
     "dateAdded": 4,
     "exercises": 
     [{
