@@ -8,170 +8,44 @@
   },
   {
     "id": 2,
-    "difficulty": 1,
-    "name": "qui est esse",
-    "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
+    "difficulty": 2,
+    "name": "Ausfallschritt – mit Kurzhanteln",
+    "description": "Ausgangsposition ist ein aufrechter und schulterbreiter Stand. Hände liegen auf der Hüfte ab und Blick ist nach vorne gerichtet.\nAusatmen und mit dem rechten Bein einen großen Schritt nach hinten machen. Fußspitzen zeigen nach vorne. Rechtes Bein ist gebeugt, sodass der Oberschenkel waagerecht zum Boden ist. Oberkörper ist gerade und aufrecht.\nSpannung kurz halten und mit der Einatmung in die Ausgangsposition zurückkommen.",
     "deleted": false
   },
   {
     "id": 3,
     "difficulty": 2,
-    "name": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-    "description": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
+    "name": "Beinheben im Vierfüßlerstand – mit Kurzhantel",
+    "description": "Gehe auf die Matte in den Vierfüßlerstand. Handgelenke befinden unterhalb der Schultern und die Knie liegen unter der Hüfte ab. Rücken ist gerade und Bauch angespannt.\nKopf befindet sich in Verlängerung der Wirbelsäule und der Blick ist nach unten gerichtet.\nHebe mit der Ausatmung das linke Bein vom Boden ab. Unterschenkel ist 45°angewinkelt und die Ferse zieht Richtung Decke. Oberschenkel bildet mit dem Rücken eine Linie Obere Position kurz halten.\nEinatmen und das Bein dabei wieder langsam absenken ohne es komplett abzulegen.",
     "deleted": false
   },
   {
     "id": 4,
-    "difficulty": 4,
-    "name": "eum et est occaecati",
-    "description": "ullam et saepe reiciendis voluptatem adipisci\nsit amet autem assumenda provident rerum culpa\nquis hic commodi nesciunt rem tenetur doloremque ipsam iure\nquis sunt voluptatem rerum illo velit",
+    "difficulty": 3,
+    "name": "Bergsteiger gerade – Bergsteiger diagonal",
+    "description": "Platziere die Hände genau unterhalb der Schultern. Finger zeigen nach vorne und Arme sind gestreckt. Füße befinden sich parallel zueinander und sind aufgestellt.\nBilde eine Gerade und spanne Rumpf und Po an. Kopf befindet sich in Verlängerung der Wirbelsäule und der Blick ist nach unten gerichtet.\nLöse den rechten Fuß vom Boden. Winkel das Bein an und führe mit der Ausatmung das rechte Knie in Richtung des rechten Ellenbogens.\nStelle das Bein wieder in die Ausgangsposition zurück und löse gleichzeitig das linke Bein vom Boden.\nFühre nun abwechselnd das rechte und linke Beine gerade zum jeweiligen Ellenbogen.",
     "deleted": false
   },
   {
     "id": 5,
-    "difficulty": 4,
-    "name": "nesciunt quas odio",
-    "description": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
+    "difficulty": 3,
+    "name": "Sit-Ups – Frog-Sit-Up",
+    "description": "Lege Dich in Rückenlage und halte die Hände am Hinterkopf. Beine sind angewinkelt und aufgestellt. Fersen drücken in den Boden und der Blick ist zur Decke gerichtet.\nHebe mit der Ausatmung den kompletten Oberkörper von der Matte ab bis er senkrecht zum Boden steht. Bauch ist angespannt.\nObere Position kurz halten und mit der Einatmung den Oberkörper langsam wieder absinken lassen. Kurz vorm Boden stoppen und Schultern nicht mehr ablegen",
     "deleted": false
   },
   {
     "id": 6,
-    "difficulty": 3,
-    "name": "dolorem eum magni eos aperiam quia",
-    "description": "ut aspernatur corporis harum nihil quis provident sequi\nmollitia nobis aliquid molestiae\nperspiciatis et ea nemo ab reprehenderit accusantium quas\nvoluptate dolores velit et doloremque molestiae",
+    "difficulty": 4,
+    "name": "Goblet Squat – mit Kettlebell",
+    "description": "Füße stehen etwas weiter als schulterbreit auseinander. Fußspitzen zeigen leicht nach außen und das Gewicht liegt sich auf den Fersen. Arme befinden sich ausgestreckt auf Schulterhöhe.",
     "deleted": false
   },
   {
     "id": 7,
-    "difficulty": 2,
-    "name": "magnam facilis autem",
-    "description": "dolore placeat quibusdam ea quo vitae\nmagni quis enim qui quis quo nemo aut saepe\nquidem repellat excepturi ut quia\nsunt ut sequi eos ea sed quas",
-    "deleted": false
-  },
-  {
-    "id": 8,
-    "difficulty": 2,
-    "name": "dolorem dolore est ipsam",
-    "description": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae",
-    "deleted": false
-  },
-  {
-    "id": 9,
-    "difficulty": 1,
-    "name": "nesciunt iure omnis dolorem tempora et accusantium",
-    "description": "consectetur animi nesciunt iure dolore\nenim quia ad\nveniam autem ut quam aut nobis\net est aut quod aut provident voluptas autem voluptas",
-    "deleted": false
-  },
-  {
-    "id": 10,
-    "difficulty": 3,
-    "name": "optio molestias id quia eum",
-    "description": "quo et expedita modi cum officia vel magni\ndoloribus qui repudiandae\nvero nisi sit\nquos veniam quod sed accusamus veritatis error",
-    "deleted": false
-  },
-  {
-    "id": 11,
-    "difficulty": 2,
-    "name": "et ea vero quia laudantium autem",
-    "description": "delectus reiciendis molestiae occaecati non minima eveniet qui voluptatibus\naccusamus in eum beatae sit\nvel qui neque voluptates ut commodi qui incidunt\nut animi commodi",
-    "deleted": false
-  },
-  {
-    "id": 12,
     "difficulty": 4,
-    "name": "in quibusdam tempore odit est dolorem",
-    "description": "itaque id aut magnam\npraesentium quia et ea odit et ea voluptas et\nsapiente quia nihil amet occaecati quia id voluptatem\nincidunt ea est distinctio odio",
-    "deleted": false
-  },
-  {
-    "id": 13,
-    "difficulty": 1,
-    "name": "dolorum ut in voluptas mollitia et saepe quo animi",
-    "description": "aut dicta possimus sint mollitia voluptas commodi quo doloremque\niste corrupti reiciendis voluptatem eius rerum\nsit cumque quod eligendi laborum minima\nperferendis recusandae assumenda consectetur porro architecto ipsum ipsam",
-    "deleted": false
-  },
-  {
-    "id": 14,
-    "difficulty": 2,
-    "name": "voluptatem eligendi optio",
-    "description": "fuga et accusamus dolorum perferendis illo voluptas\nnon doloremque neque facere\nad qui dolorum molestiae beatae\nsed aut voluptas totam sit illum",
-    "deleted": false
-  },
-  {
-    "id": 15,
-    "difficulty": 2,
-    "name": "eveniet quod temporibus",
-    "description": "reprehenderit quos placeat\nvelit minima officia dolores impedit repudiandae molestiae nam\nvoluptas recusandae quis delectus\nofficiis harum fugiat vitae",
-    "deleted": false
-  },
-  {
-    "id": 16,
-    "difficulty": 3,
-    "name": "sint suscipit perspiciatis velit dolorum rerum ipsa laboriosam odio",
-    "description": "suscipit nam nisi quo aperiam aut\nasperiores eos fugit maiores voluptatibus quia\nvoluptatem quis ullam qui in alias quia est\nconsequatur magni mollitia accusamus ea nisi voluptate dicta",
-    "deleted": false
-  },
-  {
-    "id": 17,
-    "difficulty": 5,
-    "name": "fugit voluptas sed molestias voluptatem provident",
-    "description": "eos voluptas et aut odit natus earum\naspernatur fuga molestiae ullam\ndeserunt ratione qui eos\nqui nihil ratione nemo velit ut aut id quo",
-    "deleted": false
-  },
-  {
-    "id": 18,
-    "difficulty": 2,
-    "name": "voluptate et itaque vero tempora molestiae",
-    "description": "eveniet quo quis\nlaborum totam consequatur non dolor\nut et est repudiandae\nest voluptatem vel debitis et magnam",
-    "deleted": false
-  },
-  {
-    "id": 19,
-    "difficulty": 4,
-    "name": "adipisci placeat illum aut reiciendis qui",
-    "description": "illum quis cupiditate provident sit magnam\nea sed aut omnis\nveniam maiores ullam consequatur atque\nadipisci quo iste expedita sit quos voluptas",
-    "deleted": false
-  },
-  {
-    "id": 20,
-    "difficulty": 5,
-    "name": "doloribus ad provident suscipit at",
-    "description": "qui consequuntur ducimus possimus quisquam amet similique\nsuscipit porro ipsam amet\neos veritatis officiis exercitationem vel fugit aut necessitatibus totam\nomnis rerum consequatur expedita quidem cumque explicabo",
-    "deleted": false
-  },
-  {
-    "id": 21,
-    "difficulty": 5,
-    "name": "asperiores ea ipsam voluptatibus modi minima quia sint",
-    "description": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt",
-    "deleted": false
-  },
-  {
-    "id": 22,
-    "difficulty": 1,
-    "name": "dolor sint quo a velit explicabo quia nam",
-    "description": "eos qui et ipsum ipsam suscipit aut\nsed omnis non odio\nexpedita earum mollitia molestiae aut atque rem suscipit\nnam impedit esse",
-    "deleted": false
-  },
-  {
-    "id": 23,
-    "difficulty": 3,
-    "name": "maxime id vitae nihil numquam",
-    "description": "veritatis unde neque eligendi\nquae quod architecto quo neque vitae\nest illo sit tempora doloremque fugit quod\net et vel beatae sequi ullam sed tenetur perspiciatis",
-    "deleted": false
-  },
-  {
-    "id": 24,
-    "difficulty": 2,
-    "name": "autem hic labore sunt dolores incidunt",
-    "description": "enim et ex nulla\nomnis voluptas quia qui\nvoluptatem consequatur numquam aliquam sunt\ntotam recusandae id dignissimos aut sed asperiores deserunt",
-    "deleted": false
-  },
-  {
-    "id": 25,
-    "difficulty": 4,
-    "name": "rem alias distinctio quo quis",
-    "description": "ullam consequatur ut\nomnis quis sit vel consequuntur\nipsa eligendi ipsum molestiae et omnis error nostrum\nmolestiae illo tempore quia et distinctio",
+    "name": "Liegestütz – mit Medizinball",
+    "description": "Platziere die Hände etwas mehr als schulterbreit genau unterhalb der Schultern. Finger zeigen nach vorne und Arme sind gestreckt. Füße befinden sich parallel zueinander und sind aufgestellt.\nBilde eine Gerade und spanne Rumpf und Po an. Kopf befindet sich in Verlängerung der Wirbelsäule und der Blick ist nach unten gerichtet.\nMit der Ausatmung die Arme beugen und den Oberkörper senken. Kurz vorm Boden stoppen und mit der Einatmung Arme wieder strecken um in die Ausgangsposition zurückzukommen.",
     "deleted": false
   }
 ]
