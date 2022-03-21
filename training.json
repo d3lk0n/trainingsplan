@@ -1,38 +1,46 @@
 [
   {
     "trainingId": 1,
-    "dateAdded": 3,
+    "dateAdded": " 23 / 3 / 2022",
     "exercises": 
     [{
-      "id": 1,
-      "difficulty": 2,
-      "name": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
-      "description": "quia et suscipit\nsuscipit recusandae consequuntur expedita et cum\nreprehenderit molestiae ut ut quas totam\nnostrum rerum est autem sunt rem eveniet architecto",
-      "deleted": false
-    }]
+    "id": 1,
+    "difficulty": 2,
+    "name": "Sumo-Squat",
+    "description": "Füße stehen breiter als hüftbreit auseinander und Zehen sind im 45 Grad-Winkel leicht nach außen gedreht. Das Gewicht befindet sich auf den Fersen.\nArme auf Brusthöhe nach vorne strecken.\nAtme ein und beuge mit geradem Rücken die Beine und führe den Po nach unten bis er sich parallel zum Boden befindet. Dabei bilden Waden und Oberschenkel einen rechten Winkel.\nPosition kurz halten und mit der Ausatmung langsam nach oben zur Ausgangsposition zurückkommen.",
+    "deleted": false
+  }]
   },
   {
     "trainingId": 2,
-    "dateAdded": 4,
+    "dateAdded": " 26 / 3 / 2022",
     "exercises": 
     [{
-      "id": 2,
-      "difficulty": 1,
-      "name": "qui est esse",
-      "description": "est rerum tempore vitae\nsequi sint nihil reprehenderit dolor beatae ea dolores neque\nfugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis\nqui aperiam non debitis possimus qui neque nisi nulla",
-      "deleted": false
-    }, {
-      "id": 3,
-      "difficulty": 2,
-      "name": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
-      "description": "et iusto sed quo iure\nvoluptatem occaecati omnis eligendi aut ad\nvoluptatem doloribus vel accusantium quis pariatur\nmolestiae porro eius odio et labore et velit aut",
-      "deleted": false
-    }, {
-      "id": 5,
-      "difficulty": 4,
-      "name": "nesciunt quas odio",
-      "description": "repudiandae veniam quaerat sunt sed\nalias aut fugiat sit autem sed est\nvoluptatem omnis possimus esse voluptatibus quis\nest aut tenetur dolor neque",
-      "deleted": false
-    }]
+    "id": 2,
+    "difficulty": 2,
+    "name": "Ausfallschritt – mit Kurzhanteln",
+    "description": "Ausgangsposition ist ein aufrechter und schulterbreiter Stand. Hände liegen auf der Hüfte ab und Blick ist nach vorne gerichtet.\nAusatmen und mit dem rechten Bein einen großen Schritt nach hinten machen. Fußspitzen zeigen nach vorne. Rechtes Bein ist gebeugt, sodass der Oberschenkel waagerecht zum Boden ist. Oberkörper ist gerade und aufrecht.\nSpannung kurz halten und mit der Einatmung in die Ausgangsposition zurückkommen.",
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "difficulty": 2,
+    "name": "Beinheben im Vierfüßlerstand – mit Kurzhantel",
+    "description": "Gehe auf die Matte in den Vierfüßlerstand. Handgelenke befinden unterhalb der Schultern und die Knie liegen unter der Hüfte ab. Rücken ist gerade und Bauch angespannt.\nKopf befindet sich in Verlängerung der Wirbelsäule und der Blick ist nach unten gerichtet.\nHebe mit der Ausatmung das linke Bein vom Boden ab. Unterschenkel ist 45°angewinkelt und die Ferse zieht Richtung Decke. Oberschenkel bildet mit dem Rücken eine Linie Obere Position kurz halten.\nEinatmen und das Bein dabei wieder langsam absenken ohne es komplett abzulegen.",
+    "deleted": false
+  },  {
+    "id": 6,
+    "difficulty": 4,
+    "name": "Goblet Squat – mit Kettlebell",
+    "description": "Füße stehen etwas weiter als schulterbreit auseinander. Fußspitzen zeigen leicht nach außen und das Gewicht liegt sich auf den Fersen. Arme befinden sich ausgestreckt auf Schulterhöhe.",
+    "deleted": false
+  },
+  {
+    "id": 7,
+    "difficulty": 4,
+    "name": "Liegestütz – mit Medizinball",
+    "description": "Platziere die Hände etwas mehr als schulterbreit genau unterhalb der Schultern. Finger zeigen nach vorne und Arme sind gestreckt. Füße befinden sich parallel zueinander und sind aufgestellt.\nBilde eine Gerade und spanne Rumpf und Po an. Kopf befindet sich in Verlängerung der Wirbelsäule und der Blick ist nach unten gerichtet.\nMit der Ausatmung die Arme beugen und den Oberkörper senken. Kurz vorm Boden stoppen und mit der Einatmung Arme wieder strecken um in die Ausgangsposition zurückzukommen.",
+    "deleted": false
+  }]
   }
 ]
