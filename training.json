@@ -42,5 +42,31 @@
     "description": "Platziere die Hände etwas mehr als schulterbreit genau unterhalb der Schultern. Finger zeigen nach vorne und Arme sind gestreckt. Füße befinden sich parallel zueinander und sind aufgestellt.\nBilde eine Gerade und spanne Rumpf und Po an. Kopf befindet sich in Verlängerung der Wirbelsäule und der Blick ist nach unten gerichtet.\nMit der Ausatmung die Arme beugen und den Oberkörper senken. Kurz vorm Boden stoppen und mit der Einatmung Arme wieder strecken um in die Ausgangsposition zurückzukommen.",
     "deleted": false
   }]
+  },
+  {
+    "trainingId": 3,
+    "dateAdded": " 29 / 3 / 2022",
+    "exercises": 
+    [{
+    "id": 2,
+    "difficulty": 2,
+    "name": "Ausfallschritt – mit Kurzhanteln",
+    "description": "Ausgangsposition ist ein aufrechter und schulterbreiter Stand. Hände liegen auf der Hüfte ab und Blick ist nach vorne gerichtet.\nAusatmen und mit dem rechten Bein einen großen Schritt nach hinten machen. Fußspitzen zeigen nach vorne. Rechtes Bein ist gebeugt, sodass der Oberschenkel waagerecht zum Boden ist. Oberkörper ist gerade und aufrecht.\nSpannung kurz halten und mit der Einatmung in die Ausgangsposition zurückkommen.",
+    "deleted": false
+  },
+  {
+    "id": 3,
+    "difficulty": 2,
+    "name": "Beinheben im Vierfüßlerstand – mit Kurzhantel",
+    "description": "Gehe auf die Matte in den Vierfüßlerstand. Handgelenke befinden unterhalb der Schultern und die Knie liegen unter der Hüfte ab. Rücken ist gerade und Bauch angespannt.\nKopf befindet sich in Verlängerung der Wirbelsäule und der Blick ist nach unten gerichtet.\nHebe mit der Ausatmung das linke Bein vom Boden ab. Unterschenkel ist 45°angewinkelt und die Ferse zieht Richtung Decke. Oberschenkel bildet mit dem Rücken eine Linie Obere Position kurz halten.\nEinatmen und das Bein dabei wieder langsam absenken ohne es komplett abzulegen.",
+    "deleted": false
+  },
+  {
+    "id": 7,
+    "difficulty": 4,
+    "name": "Liegestütz – mit Medizinball",
+    "description": "Platziere die Hände etwas mehr als schulterbreit genau unterhalb der Schultern. Finger zeigen nach vorne und Arme sind gestreckt. Füße befinden sich parallel zueinander und sind aufgestellt.\nBilde eine Gerade und spanne Rumpf und Po an. Kopf befindet sich in Verlängerung der Wirbelsäule und der Blick ist nach unten gerichtet.\nMit der Ausatmung die Arme beugen und den Oberkörper senken. Kurz vorm Boden stoppen und mit der Einatmung Arme wieder strecken um in die Ausgangsposition zurückzukommen.",
+    "deleted": false
+  }]
   }
 ]
